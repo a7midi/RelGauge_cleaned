@@ -1,0 +1,2 @@
+rule_mode,instance,profile,atlas_capacity,initial_seed,atlas_iteration
+random_full_permutation,28,full_atlas,32,3221741,8

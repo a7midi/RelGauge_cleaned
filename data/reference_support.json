@@ -1,0 +1,44 @@
+{
+  "name": "reference 17-state S3 support",
+  "q": 2,
+  "vertices": 9,
+  "state_count": 512,
+  "candidate_id": "random_full_permutation|inst=28|full_atlas|cap=32|seed=3221741",
+  "target_iteration": 8,
+  "target_parent_domain": 75,
+  "target_fiber_label": 7,
+  "support_indices": [
+    29,
+    30,
+    44,
+    47,
+    61,
+    62,
+    156,
+    159,
+    188,
+    191,
+    221,
+    222,
+    253,
+    254,
+    256,
+    284,
+    287
+  ],
+  "support_size": 17,
+  "support_sample": "29 30 44 47 61 62 156 159 188 191 221 222 253 254 256 284 ...",
+  "support_hash_reported": "ffb7d91caf4970bcfd60",
+  "support_sha256_int64": "9a7a2bf6f3f86425be89d8f26c81b652e14f2462272b48bb13342784f653ac5b",
+  "generators": [
+    {
+      "map": "0->2 2->0",
+      "cycle_charts": "1 5 8 7"
+    },
+    {
+      "map": "0->1 1->0",
+      "cycle_charts": "5 8 7 13"
+    }
+  ],
+  "note": "This JSON is metadata for the saved frozen transition; the actual support is recomputed by relgauge.multiobserverconsensusaudit when reproduce_quick.sh is run."
+}
