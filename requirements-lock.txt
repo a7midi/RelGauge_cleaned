@@ -1,0 +1,5 @@
+# Locked environment used to validate this artifact package.
+# Python: 3.13.5
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8

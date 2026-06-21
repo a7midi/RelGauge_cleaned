@@ -1,0 +1,221 @@
+{
+  "package": "siq-framework",
+  "version": "0.5.0-journal-cleanup",
+  "entries": [
+    {
+      "path": ".pytest_cache/.gitignore",
+      "size": 37,
+      "sha256": "3ed731b65d06150c138e2dadb0be0697550888a6b47eb8c45ecc9adba8b8e9bd"
+    },
+    {
+      "path": ".pytest_cache/CACHEDIR.TAG",
+      "size": 191,
+      "sha256": "37dc88ef9a0abeddbe81053a6dd8fdfb13afb613045ea1eb4a5c815a74a3bde4"
+    },
+    {
+      "path": ".pytest_cache/README.md",
+      "size": 302,
+      "sha256": "73fd6fccdd802c419a6b2d983d6c3173b7da97558ac4b589edec2dfe443db9ad"
+    },
+    {
+      "path": ".pytest_cache/v/cache/lastfailed",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": ".pytest_cache/v/cache/nodeids",
+      "size": 315,
+      "sha256": "5d8eac9827d0dfe16f5ca74a450751f7a675857a4eb9e2f25d33683c569ecdf4"
+    },
+    {
+      "path": "DEPENDENCY_TRACE.md",
+      "size": 627,
+      "sha256": "af942a39ddf36d4367caf1e05ecb7d97ad5123c57d52af611111fa1a3f47bc02"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1082,
+      "sha256": "15063b87f9f597033d55b3148d5e2fc853cfea1691b0b43a667c925820da438c"
+    },
+    {
+      "path": "README.md",
+      "size": 4470,
+      "sha256": "6609b803323ee2a3766b9d514c54ff299d24faaaf6d2193a78839cae9377bcd5"
+    },
+    {
+      "path": "RUNTIMES.md",
+      "size": 987,
+      "sha256": "93d8c63bb9d2f9d76f360ec173af73941683bad42c55f9592f81c15ea59c0c5c"
+    },
+    {
+      "path": "data/reference_support.json",
+      "size": 1024,
+      "sha256": "3a583c83fdb4ee8651d7321624b8a986e30fbdbb8779d953aba2ce6faa5ecd6d"
+    },
+    {
+      "path": "data/repro_witness_search_minimal.csv",
+      "size": 122,
+      "sha256": "bfa55275c22a9b36a9e219567bf01f49c257ab6c8c3f25c8f2827ccceedc777b"
+    },
+    {
+      "path": "data/repro_witness_search_q2_v9_fullperm_cap32_transition_iter8_random_full_permutation_full_atlas_cap32_inst28_seed3221741.npy",
+      "size": 4224,
+      "sha256": "ecc3f87d9f41dc98b54442712b071789dab780a1e2fd7cd4e28f035513d77cf3"
+    },
+    {
+      "path": "data/transition_iter8_inst28_seed3221741.npy",
+      "size": 4224,
+      "sha256": "ecc3f87d9f41dc98b54442712b071789dab780a1e2fd7cd4e28f035513d77cf3"
+    },
+    {
+      "path": "environment.yml",
+      "size": 139,
+      "sha256": "03033bf130bd6b8929b833e5259646db4856d9ee2e7d3d32c4c3dbf40990133b"
+    },
+    {
+      "path": "paper/siq_paper_journal_ready.pdf",
+      "size": 349034,
+      "sha256": "adf36f2bb6c634684aa337c1ca557c6e6f2dd672d087ffdcb32fc5500e4f54d1"
+    },
+    {
+      "path": "paper/siq_paper_journal_ready.tex",
+      "size": 47740,
+      "sha256": "a7c2ef7e3ad53ef89372231379159050b93ba9999c980c7d58393d0799274dd0"
+    },
+    {
+      "path": "paper/siq_paper_submission_fixes.pdf",
+      "size": 349034,
+      "sha256": "adf36f2bb6c634684aa337c1ca557c6e6f2dd672d087ffdcb32fc5500e4f54d1"
+    },
+    {
+      "path": "paper/siq_paper_submission_fixes.tex",
+      "size": 47740,
+      "sha256": "a7c2ef7e3ad53ef89372231379159050b93ba9999c980c7d58393d0799274dd0"
+    },
+    {
+      "path": "pyproject.toml",
+      "size": 404,
+      "sha256": "4f1bb3bae2f43e8a20f19e928b643955624b8c3cf43fb385c1d45c2cb6b8a931"
+    },
+    {
+      "path": "relgauge/__init__.py",
+      "size": 237,
+      "sha256": "2a87d00f40ecab5e8ef30b9bff4355454f8e6b54ae21bad402daa5c7e1cba4ee"
+    },
+    {
+      "path": "relgauge/binarycompositegaugespectrumaudit.py",
+      "size": 46994,
+      "sha256": "b7aab7611d371d01a42b97d84f8cad90546b56dfa74f6ddf826d7e9ade7ba4d5"
+    },
+    {
+      "path": "relgauge/boundaryproliferationaudit.py",
+      "size": 42652,
+      "sha256": "97c93f43ea6046a8ec700b1d6e60f5105b1f0e6c04c6665e190201a379d495ba"
+    },
+    {
+      "path": "relgauge/criticalc2birthwindowaudit.py",
+      "size": 50235,
+      "sha256": "5640e5e1de1efb75ec6d3d4f3d788dc42328d216b82356fae536ece625483cfe"
+    },
+    {
+      "path": "relgauge/dynamicsconsistencyfixedpointaudit.py",
+      "size": 76677,
+      "sha256": "d9eb7bf39bebb6da302ca7d3cbd6665c37ce13b19e666e5a1717382a170dd14e"
+    },
+    {
+      "path": "relgauge/exactclosureholonomyaudit.py",
+      "size": 38499,
+      "sha256": "d4c3235c0c8d16a4a45803962d42c1ca2ae7bbabefbddda906790a482c518888"
+    },
+    {
+      "path": "relgauge/fiberatlasfixedpointaudit.py",
+      "size": 36082,
+      "sha256": "8d044d30be56323b80a28b8b3a4d271f78ef287adc35e80f122c96b33b5e6b0d"
+    },
+    {
+      "path": "relgauge/fiberchartconnectionaudit.py",
+      "size": 45187,
+      "sha256": "f59bd01688ff702ddc4cc3ecb10311adfa390564d52f073d1716974c763b4d3f"
+    },
+    {
+      "path": "relgauge/generatedcandidatephysicsreplayaudit.py",
+      "size": 37839,
+      "sha256": "db836f7f3bb3da5510dd6e4123a148aabc46345e00b9f9a70499c093d57c8392"
+    },
+    {
+      "path": "relgauge/iteratedfiberatlasdynamicsaudit.py",
+      "size": 40778,
+      "sha256": "f285ebc85e1613ba7178b2e873a5c40b97e2176a7a06ab20f1e407703ddbbc19"
+    },
+    {
+      "path": "relgauge/multiobserverconsensusaudit.py",
+      "size": 62266,
+      "sha256": "7918b10dc084a3f70ee1dce8484a503184fe6e0d256f6877061595648e9e64ea"
+    },
+    {
+      "path": "relgauge/observationmethodscaletest.py",
+      "size": 43538,
+      "sha256": "d54b593e40ffc73a9e6e3eb45585d36492604dd72f8751b50860de4a727c20eb"
+    },
+    {
+      "path": "relgauge/observerboundarygeometry.py",
+      "size": 28635,
+      "sha256": "6218f300519b33f0b172c53a597ec42f5091a8ea5e116495ff31581cad40dfd0"
+    },
+    {
+      "path": "relgauge/perturbationstabilityaudit.py",
+      "size": 24713,
+      "sha256": "cc84d99b763b12d81566928e87448c43067d9a98e5c8ccc2336f8ef0e1ae6a35"
+    },
+    {
+      "path": "reproduce.sh",
+      "size": 3239,
+      "sha256": "e14cbb957c71eadbd70de394a26e3a09e5fcedaca7dbb82f5aac5a8b4428850f"
+    },
+    {
+      "path": "reproduce_quick.sh",
+      "size": 2671,
+      "sha256": "3863c478bae32b81c1320ede390e4d8623f4e4ece54c86dc25e8128c54f3825f"
+    },
+    {
+      "path": "requirements-lock.txt",
+      "size": 124,
+      "sha256": "597bff32de5802ed3e461a48351a46b7644f8ad472038dd10d43e918fc1234a0"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 46,
+      "sha256": "4a3b8f655b2cbaa5e7a06fea1584c7553e94ef3ff58161798cb4c120fd627c3a"
+    },
+    {
+      "path": "results/.gitkeep",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "test_imports.sh",
+      "size": 531,
+      "sha256": "770b25695c837128de7c0f9445c452c95db53d424196af382a593f8f7d02e0ee"
+    },
+    {
+      "path": "tests/test_data.py",
+      "size": 386,
+      "sha256": "c30419695eff44eccf17a159466d37bbc6009339a425e62cc7e70a00c3457f88"
+    },
+    {
+      "path": "tests/test_determinism.py",
+      "size": 649,
+      "sha256": "6df3079ef31e8059cc156b6064c4b15c39158a3aeba5b0ec233a7144b7ceffe4"
+    },
+    {
+      "path": "tests/test_groups.py",
+      "size": 364,
+      "sha256": "a35717badc170d62002008d4685fedd9806318b022637789e8cfcdfb2631e6ce"
+    },
+    {
+      "path": "tests/test_imports.py",
+      "size": 600,
+      "sha256": "7301acf2616251dc028c3e04a94320ba3b215e3ab5634c75e27dd44abc72818d"
+    }
+  ]
+}

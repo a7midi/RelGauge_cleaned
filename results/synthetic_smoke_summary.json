@@ -1,0 +1,32 @@
+{
+  "algebra_family_counts": {
+    "C2_basepoint_isotropy": 4,
+    "S3_basepoint_isotropy": 1
+  },
+  "any_exact_s3_basepoint_isotropy": true,
+  "any_nonabelian_basepoint_isotropy": true,
+  "apply_basis_to_atlas_signature": false,
+  "audit_version": "temporal_capacity_chart_basis_audit_v1_endogenous_chart_richness",
+  "chart_basis": "synthetic",
+  "chart_type_counts": {
+    "synthetic": 5
+  },
+  "max_chart_label_count": 3,
+  "max_generated_group_order": 6,
+  "max_loop_label_support_size": 3,
+  "max_orbit_size": 3,
+  "n_chart_rows": 5,
+  "n_charts_with_3plus_labels": 5,
+  "n_group_rows": 5,
+  "n_loop_rows": 12,
+  "n_processed_atlases": 1,
+  "q": 2,
+  "temporal_block_modes": [
+    "manual"
+  ],
+  "temporal_window_sizes": [
+    2
+  ],
+  "verdict": "TEMPORAL-CAPACITY CHART BASIS S3 SIGNAL: exact S3 basepoint isotropy found",
+  "vertices": 3
+}

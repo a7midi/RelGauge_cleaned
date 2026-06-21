@@ -1,0 +1,13 @@
+candidate_id,atlas_iteration,parent_domain_id,fiber_label,chart_basis,temporal_window_size,temporal_block_mode,base_chart,cycle_charts,cycle_length,loop_valid,loop_order,loop_nontrivial,loop_c2,loop_map,loop_label_support,failure_reason
+synthetic,0,0,0,synthetic,2,manual,0,0 1 2,3,True,2,True,True,0->1 1->0 2->2,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,0,0 2 1,3,True,2,True,True,0->1 1->0 2->2,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,0,0 3 4,3,True,2,True,True,0->2 1->1 2->0,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,0,0 4 3,3,True,2,True,True,0->2 1->1 2->0,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,1,1 0 2,3,True,2,True,True,0->1 1->0 2->2,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,1,1 2 0,3,True,2,True,True,0->1 1->0 2->2,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,2,2 0 1,3,True,2,True,True,0->1 1->0 2->2,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,2,2 1 0,3,True,2,True,True,0->1 1->0 2->2,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,3,3 0 4,3,True,2,True,True,0->2 1->1 2->0,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,3,3 4 0,3,True,2,True,True,0->2 1->1 2->0,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,4,4 0 3,3,True,2,True,True,0->2 1->1 2->0,0 1 2,
+synthetic,0,0,0,synthetic,2,manual,4,4 3 0,3,True,2,True,True,0->2 1->1 2->0,0 1 2,
